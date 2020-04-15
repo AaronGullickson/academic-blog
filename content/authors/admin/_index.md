@@ -40,10 +40,10 @@ education:
     institution: University of California, Berkeley
     year: 1999
   - course: BA in Sociology
-    institution: University of Washinvton
+    institution: University of Washington
     year: 1998
   - course: Minor in Statistics
-    institution: University of Washinvton
+    institution: University of Washington
     year: 1998
 
 # Social/Academic Networking
