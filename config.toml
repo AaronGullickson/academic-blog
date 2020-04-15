@@ -38,8 +38,8 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 #permalinks
-#[permalinks]
-#  post = "/:year/:month/:slug/"
+[permalinks]
+  post = "/:year/:month/:slug/"
 
 [outputs]
   home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
