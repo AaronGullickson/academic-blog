@@ -15,7 +15,7 @@ role: Associate Professor of Sociology
 # Organizations/Affiliations
 organizations:
 - name: University of Oregon
-  url: "https://www.uoregon.edu"
+  url: "https://sociology.uoregon.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include racial identification and classification, interracial union formation, religious secularization, quantitative methodology, and open science.
