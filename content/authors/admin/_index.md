@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Aaron Gullickson
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,41 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate Professor of Sociology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Oregon
+  url: "https://www.uoregon.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Racial/Ethnic Boundaries
+- Racial Identification and Classification
+- Interracial Union Formation
+- Religious Secularization
+- Quantitative Methodology
+- Open Science and Research Transparency
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Sociology and Demography
+    institution: University of California, Berkeley
+    year: 2004
+  - course: MA in Sociology
+    institution: University of California, Berkeley
+    year: 2001
+  - course: MA in Demography
+    institution: University of California, Berkeley
+    year: 1999
+  - course: BA in Sociology
+    institution: University of Washinvton
+    year: 1998
+  - course: Minor in Statistics
+    institution: University of Washinvton
+    year: 1998
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +53,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:aarong@uoregon.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/AaronGullickson
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.dk/citations?user=LCTjizQAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/AaronGullickson
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-7237-8131
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/uwztv/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +85,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a sociologist and demographer who specializes in quantitative methods. Most of my research is focused on issues of racial inequality and categorization. I am particularly interested in integrating insights from the study of racial inequality where racial categories are often treated as static and given, with work on racial boundary formation where the dynamic nature of racial categorization and identification is the object of study. Within this general area of interest, I study many particular topics such as interracial marriage, racial identification, and the life outcomes of mixed race individuals,  across place and time. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I also have a growing interest in the sociology of religion (and non-religion). I am particularly interested in the relationship between religious identification, beliefs, and practices.
