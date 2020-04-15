@@ -72,4 +72,4 @@ For more information:
 
 * [McClintock's original paper](https://journals.sagepub.com/doi/full/10.1177/0003122414536391)
 * [McClintock's response](https://journals.sagepub.com/doi/10.1177/0003122417725175)
-* [My comments on McClintock's response](/post/response-to-mcclintock-response/) 
+* [My comments on McClintock's response](/post/mcclintock_response/) 
