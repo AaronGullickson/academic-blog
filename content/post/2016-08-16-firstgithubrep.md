@@ -1,12 +1,12 @@
 ---
 title: My First GitHub Repository
+author: Aaron Gullickson
 date: '2016-08-16'
 slug: first-github-repository
 categories: []
 tags: [github, git, open science, ancestry]
 subtitle: ''
 summary: 'in which I become and open scientist'
-authors: [Aaron Gullickson]
 lastmod: '2016-08-16T11:17:18-07:00'
 featured: no
 image:

@@ -1,12 +1,12 @@
 ---
 title: Measuring Status Exchange
+author: Aaron Gullickson
 date: '2016-08-05'
 slug: measuring-status-exchange
 categories: []
 tags: [status exchange, modeling, intermarriage, R]
 subtitle: ''
 summary: 'Code for measuring status exchange in R'
-authors: [Aaron Gullickson]
 lastmod: '2016-08-05T11:17:18-07:00'
 featured: no
 image:

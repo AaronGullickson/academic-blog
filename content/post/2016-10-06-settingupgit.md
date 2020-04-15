@@ -1,12 +1,12 @@
 ---
 title: Setting Up a Git Repository
+author: Aaron Gullickson
 date: '2016-10-06'
 slug: setting-up-git
 categories: []
 tags: [git]
 subtitle: ''
 summary: 'Basic instructions on setting up linked local and remote git repositories'
-authors: [Aaron Gullickson]
 lastmod: '2016-10-06T11:17:18-07:00'
 featured: no
 image:

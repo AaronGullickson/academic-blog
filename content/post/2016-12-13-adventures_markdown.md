@@ -1,12 +1,12 @@
 ---
 title: Adventures in Markdown
+author: Aaron Gullickson
 date: '2016-12-13'
 slug: adventures-in-markdown
 categories: []
 tags: [markdown, R]
 subtitle: ''
 summary: 'in which I try to write a paper in R Markdown'
-authors: [Aaron Gullickson]
 lastmod: '2016-12-13T11:17:18-07:00'
 featured: no
 image:

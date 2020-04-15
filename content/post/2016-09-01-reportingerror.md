@@ -1,12 +1,12 @@
 ---
 title: Racial Fluidity, Social Status, and Measurement Error
+author: Aaron Gullickson
 date: '2016-09-01'
 slug: racial-fluidity-measurement-error
 categories: []
 tags: [racial fluidity, modeling, R]
 subtitle: ''
 summary: 'Some comments on the racial fluidity and measurement debate in AJS'
-authors: [Aaron Gullickson]
 lastmod: '2016-09-01T11:17:18-07:00'
 featured: no
 image:

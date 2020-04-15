@@ -1,6 +1,5 @@
 ---
 title: Providing Anonymous Code and Data to Reviewers
-description: 
 author: Aaron Gullickson
 date: '2018-05-09'
 slug: providing-anonymous-code
@@ -8,7 +7,6 @@ categories: []
 tags: [open science, review process, github, git]
 subtitle: ''
 summary: 'Because reviewers deserve open science too'
-authors: [Aaron Gullickson]
 lastmod: '2018-05-09T11:17:18-07:00'
 featured: no
 image:

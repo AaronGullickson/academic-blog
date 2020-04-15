@@ -18,7 +18,7 @@ organizations:
   url: "https://www.uoregon.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include racial identification and classification, interracial union formation, religious secularization, quantitative methodology, and open science.
 
 interests:
 - Racial/Ethnic Boundaries

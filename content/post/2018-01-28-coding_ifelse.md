@@ -1,12 +1,12 @@
 ---
 title: Re-coding Categorical Variables in R
+author: Aaron Gullickson
 date: '2018-01-28'
 slug: re-coding-categorical-variables-r
 categories: []
 tags: [R]
 subtitle: ''
 summary: 'Coding categorical variables in R with the factor and ifelse command'
-authors: [Aaron Gullickson]
 lastmod: '2018-01-28T11:17:18-07:00'
 featured: no
 image:
