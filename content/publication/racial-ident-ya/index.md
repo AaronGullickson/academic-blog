@@ -24,7 +24,7 @@ abstract: "Quantitative studies of racial identification have commonly focused o
 # Summary. An optional shortened abstract.
 summary: "Understanding the complexity of racial identification among contemporary young adults using data from the NLSY97"
 
-tags: []
+tags: [racial identification, young adults, NLSY97]
 categories: []
 featured: false
 

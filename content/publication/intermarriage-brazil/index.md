@@ -24,7 +24,7 @@ abstract: "Exchange of racial for educational status has been documented for bla
 # Summary. An optional shortened abstract.
 summary: "Finding strong evidence of race-educational exchange in Brazil"
 
-tags: []
+tags: [intermarriage, status exchange, Brazil]
 categories: []
 featured: false
 

@@ -24,7 +24,7 @@ abstract: "In this comment, I identify two methodological issues in McClintockâ€
 # Summary. An optional shortened abstract.
 summary: "A comment discussing methodological issues with a paper on beauty-status exchange"
 
-tags: []
+tags: [status exchange, gender, modeling, Add Health]
 categories: []
 featured: false
 

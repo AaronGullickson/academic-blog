@@ -24,7 +24,7 @@ abstract: "Race and ancestry are both popularly viewed in the United States as d
 # Summary. An optional shortened abstract.
 summary: "A comparison of race and ancestry measures in US Census data"
 
-tags: []
+tags: [racial identification, ancestry, racial fluidity, ACS]
 categories: []
 featured: false
 

@@ -24,7 +24,7 @@ abstract: "Since 1990, the percentage of Americans with no religious afﬁliatio
 # Summary. An optional shortened abstract.
 summary: "The religious beliefs of the affiliated and unaffiliated have diverged significantly since 2000 according do data from the GSS"
 
-tags: []
+tags: [religious change, secularization, polarization, nones, GSS]
 categories: []
 featured: false
 

@@ -24,7 +24,7 @@ abstract: "Publicly funded social services are an increasingly important compone
 # Summary. An optional shortened abstract.
 summary: "Understanding the spatial allocation of social services funding through contracting out in NYC"
 
-tags: []
+tags: [social services, organizations, New York City]
 categories: []
 featured: false
 
