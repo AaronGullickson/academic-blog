@@ -2,7 +2,7 @@
 title: Setting Up a Git Repository
 author: Aaron Gullickson
 date: '2016-10-06'
-slug: setting-up-git
+slug: settingupgit
 categories: []
 tags: [git]
 subtitle: ''

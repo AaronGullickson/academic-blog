@@ -2,7 +2,7 @@
 title: Adventures in Markdown
 author: Aaron Gullickson
 date: '2016-12-13'
-slug: adventures-in-markdown
+slug: adventures_markdown
 categories: []
 tags: [markdown, R]
 subtitle: ''

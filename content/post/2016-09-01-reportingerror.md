@@ -2,7 +2,7 @@
 title: Racial Fluidity, Social Status, and Measurement Error
 author: Aaron Gullickson
 date: '2016-09-01'
-slug: racial-fluidity-measurement-error
+slug: reportingerror
 categories: []
 tags: [racial fluidity, modeling, R]
 subtitle: ''

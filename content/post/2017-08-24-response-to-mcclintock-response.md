@@ -2,7 +2,7 @@
 title: Response to McClintock Response
 author: Aaron Gullickson
 date: '2017-08-24'
-slug: response-to-mcclintock-response
+slug: mcclintock_response
 categories: []
 tags:
   - status exchange

@@ -2,7 +2,7 @@
 title: Re-coding Categorical Variables in R
 author: Aaron Gullickson
 date: '2018-01-28'
-slug: re-coding-categorical-variables-r
+slug: coding_ifelse
 categories: []
 tags: [R]
 subtitle: ''
