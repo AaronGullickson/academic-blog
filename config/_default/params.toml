@@ -97,7 +97,7 @@ directions = "7th floor of PLC"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Wednesday 11:00am to 1:00pm on Zoom (contact me for link)"]
+office_hours = ["Wednesday 10:00am to 1:00pm on Zoom (contact me for link)"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = []
