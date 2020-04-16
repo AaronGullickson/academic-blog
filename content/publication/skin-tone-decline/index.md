@@ -4,7 +4,7 @@
 title: "The Significance of Color Declines: A Re-Analysis of Skin Tone Differentials in Post-Civil Rights America"
 authors: [Aaron Gullickson]
 date: 2005-09-01T12:46:34-07:00
-doi: ""
+doi: "10.1353/sof.2005.0099"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2005-09-01T12:46:34-07:00
