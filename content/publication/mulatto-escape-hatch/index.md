@@ -24,7 +24,7 @@ abstract: "Racial distinctions in the United States have long been characterized
 # Summary. An optional shortened abstract.
 summary: "Using historical longitudinal data to look at changes in racial identification in the US"
 
-tags: [racial fluidity, racial classification, mulatto escape hatch]
+tags: [racial fluidity, racial classification, mulatto escape hatch, Jim Crow era]
 categories: []
 featured: false
 
