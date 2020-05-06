@@ -1,5 +1,5 @@
 ---
-title: Adding odds ratios to logit model output in R
+title: Adding Odds Ratios to Logit Model Output in R
 author: Aaron Gullickson
 date: '2020-05-06'
 slug: adding-odds-ratios-to-logit-model-output-in-r
