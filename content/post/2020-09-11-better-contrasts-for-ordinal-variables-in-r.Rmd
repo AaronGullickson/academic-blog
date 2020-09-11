@@ -99,7 +99,7 @@ knitr::kable(round(coef(model_ordinal2), 2), col.names="coefficients")
 
 ## Use the stairstep contrast, tell a friend
 
-However, since we have to re-specify our contrasts, why not take the time to think about better options? The standard dummy variable coding for ordinal variables is often not very informative. For example, I can see that individuals with a graduate degree make $23.91 more per hour than those with no high school diploma. Thats a large difference, but I would have expected a large number here given that we are contrasting the poles of the distribution. A far more interesting question is how much more do those with graduate degrees make than those with only a bachelor's degree? In that case, we are comparing how much the predicted value of the dependent variable changes when you move to the next highest adjacent category. 
+However, since we have to re-specify our contrasts, why not take the time to think about better options? The standard dummy variable coding for ordinal variables is often not very informative. For example, I can see that individuals with a graduate degree make $23.91 more per hour than those with no high school diploma. That is a large difference, but I would have expected a large number here given that we are contrasting the poles of the distribution. A far more interesting question is how much more do those with graduate degrees make than those with only a bachelor's degree? In that case, we are comparing how much the predicted value of the dependent variable changes when you move to the next highest adjacent category. 
 
 We can do this for all adjacent pairs by applying a `diff` to the vector of mean wages:
 
