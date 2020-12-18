@@ -6,7 +6,7 @@ slug: better-contrasts-for-ordinal-variables-in-r
 categories: []
 tags:
   - R
-subtitle: ''
+subtitle: 'Use stairstep contrasts, tell a friend'
 summary: ''
 authors: []
 lastmod: '2020-09-11T14:07:36-07:00'
