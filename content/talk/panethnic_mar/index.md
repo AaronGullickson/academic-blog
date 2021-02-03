@@ -16,15 +16,15 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-12-18T14:34:29-08:00
-date_end: 2020-12-18T14:34:29-08:00
+date: 2020-02-05T12:00:00-08:00
+date_end: 2020-02-05T01:00:00-08:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-12-18T14:34:29-08:00
 
-authors: []
-tags: []
+authors: [Aaron Gullickson]
+tags: [interracial marriage, pan-ethnicity, modeling]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -44,7 +44,7 @@ links:
    url: talk/panethnic_mar/poster.pdf
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: https://aarongullickson.netlify.app/talk/panethnic_mar/presentation.presentation.html
+url_slides: https://aarongullickson.netlify.app/talk/panethnic_mar/presentation/presentation.html
 
 url_code:
 url_pdf: 
