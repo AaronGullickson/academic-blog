@@ -44,7 +44,7 @@ links:
    url: talk/panethnic_mar/poster.pdf
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: 
+url_slides: https://aarongullickson.netlify.app/talk/panethnic_mar/presentation.presentation.html
 
 url_code:
 url_pdf: 
