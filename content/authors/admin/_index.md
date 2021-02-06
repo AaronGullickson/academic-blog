@@ -72,7 +72,7 @@ social:
 # Link to a PDF of your resume/CV from the About widget.
 - icon: cv
   icon_pack: ai
-  link: other/aarongull_cv.pdf
+  link: cv/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
