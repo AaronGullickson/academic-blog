@@ -3,7 +3,7 @@
 
 title: "The Racial Identification of Young Adults in a Racially Complex Society"
 authors: [Aaron Gullickson]
-date: 2018-08-05
+date: 2019-08-05
 doi: "10.1177/2167696818790306"
 
 # Schedule page publish date (NOT publication's date).
